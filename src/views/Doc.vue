@@ -70,6 +70,7 @@
         display: flex;
         > aside {
             flex-shrink: 0;
+            z-index: 10;
         }
         > main {
             flex-grow: 1;
@@ -86,6 +87,7 @@
         left: 0;
         padding-top: 70px;
         height: 100%;
+
         > h2 {
             margin-bottom: 4px;
             padding: 0 16px;

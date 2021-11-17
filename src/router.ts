@@ -17,6 +17,7 @@ export const router = createRouter({
     routes:[
         {path:'/',component:Home},
         {path:'/doc',component:Doc,children:[
+                {path:"",redirect:'/doc/intro'},//如果访问的是默认的路由直接跳转到intro
                 {path:'Intro',component:Intro},
                 {path:'Get-started',component:GetStarted},
                 {path:'Install',component:Install},
