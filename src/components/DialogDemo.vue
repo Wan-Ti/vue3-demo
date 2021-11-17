@@ -1,41 +1,16 @@
 <template>
     <div>
-        <Button @click="toggle">
-            toggle
-        </Button>
-        <h1>示例</h1>
-        <Button @click="showDialog">showDialog</Button>
+        Dialog示例
+        <Demo :component="Dialog1Demo" />
     </div>
 </template>
 <script lang="ts">
-    import Dialog from "../lib/Dialog.vue";
-    import Button from "../lib/Button.vue";
-    import {openDialog} from "../lib/openDialog"
-    import { ref } from "vue";
-
-
+    import Demo from "./Demo.vue";
+    import Dialog1Demo from "./Dialog1Demo.vue";
     export default {
-        components:{
-            Dialog,Button
+        components: { Dialog1Demo ,Demo},
+        setup() {
+            return {Dialog1Demo}
         },
-        setup(){
-            const x = ref(false)
-            const toggle = ()=>{
-                x.value = !x.value
-            }
-            const showDialog = () => {
-                openDialog({
-                    title:'标题',
-                    content:'你好',
-                    ok(){
-                        console.log('你好')
-                    },
-                    cancel(){
-                        console.log('关闭')
-                    }
-                })
-            }
-            return {x,toggle,showDialog}
-        }
-    }
+    };
 </script>

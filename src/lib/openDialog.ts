@@ -3,7 +3,7 @@ import { createApp,h } from 'vue';
 
 
 
-export const openDialog = (options: { title: any; content: any; }) => {
+export const openDialog = (options: { cancel(): void; title: string; ok(): void; content: string }) => {
     // @ts-ignore
     const {title,content,ok,cancel} = options
     const div = document.createElement('div')
