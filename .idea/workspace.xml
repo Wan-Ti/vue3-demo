@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfcbc0bb-ea9d-40ac-9dba-42cec0b8034f" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="TypeScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20zOW64LjaKk07ElGO9SHudhzxN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="D:\IDEA\IDEA\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\hello-vue3" />
+      <recent name="E:\hello-vue3\src\views" />
+      <recent name="E:\hello-vue3\src\components" />
+      <recent name="E:\hello-vue3\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\hello-vue3\src\views" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfcbc0bb-ea9d-40ac-9dba-42cec0b8034f" name="默认的" comment="" />
+      <created>1637043977560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637043977560</updated>
+      <workItem from="1637043982550" duration="645000" />
+      <workItem from="1637044692655" duration="2061000" />
+      <workItem from="1637046884381" duration="86000" />
+      <workItem from="1637047511493" duration="1227000" />
+      <workItem from="1637049776695" duration="6775000" />
+      <workItem from="1637056669282" duration="166000" />
+      <workItem from="1637108735582" duration="2904000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="787" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1637053199917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="787" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1637053199917" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1637111088525">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1637111088525" />
+    <state x="637" y="296" key="EditFileWatcherDialog" timestamp="1637045343424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="637" y="296" key="EditFileWatcherDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1637045343424" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1637056596473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1637056596473" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1637056596472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1637056596472" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1637056596472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1637056596472" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1637056596473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1637056596473" />
+    <state x="1920" y="0" width="1671" height="874" key="dock-window-1" timestamp="1637111048394">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1920" y="0" width="1671" height="874" key="dock-window-1/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1637111048394" />
+  </component>
+</project>
