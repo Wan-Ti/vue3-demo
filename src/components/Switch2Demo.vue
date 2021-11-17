@@ -1,17 +1,20 @@
-<demo>支持 disabled</demo>
+<demo>
+    支持 disabled
+</demo>
 <template>
-    <Switch v-model:value="bool" disabled></Switch>
+    <Switch v-model:value="bool" disabled />
 </template>
 
 <script lang="ts">
-    import Switch from "../lib/Switch.vue";
-    import {ref} from 'vue'
+    import Switch from '../lib/Switch.vue'
+    import {
+        ref
+    } from 'vue'
     export default {
-        name: "Switch2demo",
-        components:{
+        components: {
             Switch,
         },
-        setup(){
+        setup() {
             const bool = ref(false)
             return {
                 bool
