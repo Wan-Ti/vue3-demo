@@ -29,6 +29,9 @@
                     <li>
                         <router-link to="/doc/TabsDemo">Tabs 组件</router-link>
                     </li>
+                    <li>
+                        <router-link to="/doc/TabsTestDemo">测试Tabs组件</router-link>
+                    </li>
                 </ol>
             </aside>
             <main>

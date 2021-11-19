@@ -1240,10 +1240,10 @@ magic-string@^0.25.7:
   dependencies:
     sourcemap-codec "^1.4.4"
 
-marked@^3.0.8:
-  version "3.0.8"
-  resolved "https://registry.npmmirror.com/marked/download/marked-3.0.8.tgz?cache=0&sync_timestamp=1636778144089&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Fmarked%2Fdownload%2Fmarked-3.0.8.tgz#2785f0dc79cbdc6034be4bb4f0f0a396bd3f8aeb"
-  integrity sha1-J4Xw3HnL3GA0vku08PCjlr0/ius=
+marked@^4.0.3:
+  version "4.0.3"
+  resolved "https://registry.npmmirror.com/marked/download/marked-4.0.3.tgz?cache=0&sync_timestamp=1636778186560&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Fmarked%2Fdownload%2Fmarked-4.0.3.tgz#986760a428d8fd666251ec578429bf9a239a34bc"
+  integrity sha512-vSwKKtw+lCA0uFK/02JT4tBfNxEREpoTg21NoXqcmX0ySBIEyLMYWmt8WPsM61QNFaDBZkggupyNXLsV7uPuRg==
 
 media-typer@0.3.0:
   version "0.3.0"
