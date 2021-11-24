@@ -40,7 +40,6 @@
                 })
             })
 
-
             const defaults = context.slots.default()
             defaults.forEach((tag:any) => {
                 if (tag.type !== Tab) {

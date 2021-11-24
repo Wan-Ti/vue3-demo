@@ -32,6 +32,9 @@
                     <li>
                         <router-link to="/doc/TabsTestDemo">测试Tabs组件</router-link>
                     </li>
+                    <li>
+                        <router-link to="/doc/SwitchTestDemo">测试Switch组件</router-link>
+                    </li>
                 </ol>
             </aside>
             <main>
