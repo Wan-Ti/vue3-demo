@@ -7,6 +7,8 @@ import DialogDemo from "./components/DialogDemo.vue";
 import TabsDemo from "./components/TabsDemo.vue";
 import TabsTestDemo from "./components/TabsTestDemo.vue"
 import SwitchTestDemo from "./components/SwitchTestDemo.vue"
+import ButtonTestDemo from "./components/ButtonTestDemo.vue"
+
 
 import { h } from 'vue';
 import Markdown from './components/Markdown.vue';
@@ -32,7 +34,8 @@ export const router = createRouter({
                 { path: "DialogDemo", component: DialogDemo },
                 { path: "TabsDemo", component: TabsDemo },
                 { path: "TabsTestDemo",component:TabsTestDemo},
-                { path: "SwitchTestDemo",component:SwitchTestDemo}
+                { path: "SwitchTestDemo",component:SwitchTestDemo},
+                { path: "ButtonTestDemo",component:ButtonTestDemo}
             ],
         },
     ],
