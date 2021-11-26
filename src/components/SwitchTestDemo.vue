@@ -1,13 +1,17 @@
 <template>
-    <!--<Switch :value="y" @update:value="y = $event" />-->
-    <Switch v-model:value="bool"  />
+    <!--<SwitchTest />
+    <span>关闭了</span>-->
+    <!--<SwitchTest v-bind:value="bool" v-on:input="bool = $event" />
+    <span>{{bool}}</span>-->
+    <SwitchTest v-model:value="bool"  />
+    <span>{{bool}}</span>
 </template>
 <script lang="ts">
-    import Switch from "../lib/SwitchTest.vue"
+    import SwitchTest from "../lib/SwitchTest.vue"
     import {ref} from "vue"
     export default {
         components:{
-            Switch
+            SwitchTest
         },
         setup(){
             const bool = ref(false);

@@ -25,6 +25,7 @@
                 toggle
             }*/
             const toggle = () => {
+                /*props.value = !props.value*/
                 context.emit("update:value",!props.value)
             }
             return {
@@ -36,6 +37,9 @@
 <style lang="scss" scoped>
     $h:22px;
     .SwitchTest{
+        button:focus{
+            outline: none;
+        }
         .outside{
             width: $h * 2;
             height: $h;
@@ -61,5 +65,6 @@
             }
         }
     }
+
 </style>
 

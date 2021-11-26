@@ -1,4 +1,10 @@
 <template>
+    <!--<div class="Button-Test">
+        <Button class="gulu-button " :class="classes" @click="onClick">
+            <span v-if="loading" class="gulu-loadingIndicator"></span>
+            <slot />
+        </Button>
+    </div>-->
     <Button class="gulu-button " :class="classes" @click="onClick">
         <span v-if="loading" class="gulu-loadingIndicator"></span>
         <slot />
@@ -38,6 +44,10 @@
 </script>
 
 <style lang="scss">
+    .Button-Test{
+        width: 500px;
+        border: 1px solid red;
+    }
     .gulu-theme-text {
         border-color: transparent;
         box-shadow: none;

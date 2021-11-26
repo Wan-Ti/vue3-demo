@@ -1,5 +1,5 @@
 <template>
-    <ButtonTest @click="toggle">你好</ButtonTest>
+    <ButtonTest @click="toggle">你好啊</ButtonTest>
     <ButtonTest @click="toggle" theme="text" size="normal">
         你好鸭
     </ButtonTest>
